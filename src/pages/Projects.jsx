@@ -15,11 +15,7 @@ const Projects = () => {
       </h1>
 
       <p className='text-slate-500 mt-2 leading-relaxed'>
-        I've embarked on numerous projects throughout the years, but these are
-        the ones I hold closest to my heart. Many of them are open-source, so if
-        you come across something that piques your interest, feel free to
-        explore the codebase and contribute your ideas for further enhancements.
-        Your collaboration is highly valued!
+      Greetings! I am a dynamic professional based in Croatia with a deep passion for technology. I specialize in C, C++, Java, Python, and Autodesk Inventor/Fusion 360, among other technologies. With over 25 successful hardware and software projects, I have honed my expertise in robotics, full-stack web development, and cybersecurity as a part-time bug bounty hunter. My journey started at the age of 6 with electrical and electronic machines, and today, I am proficient in crafting mechanical robots using Arduino and Raspberry Pi. I am dedicated to being a trailblazer in technological innovation, bringing a strategic and systematic approach to every project.
       </p>
 
       <div className='flex flex-wrap my-20 gap-16'>
